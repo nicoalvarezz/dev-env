@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+brew install herdr
+
+# Plugins
+herdr plugin install salkhalil/herdr-sessionizer

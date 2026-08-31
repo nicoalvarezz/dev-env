@@ -1,0 +1,16 @@
+onboarding = false
+
+[ui.toast]
+delivery = "herdr"
+
+[[keys.command]]
+key = "prefix+f"
+type = "plugin_action"
+command = "sessionizer.pick"
+description = "fuzzy-switch workspace"
+
+[[keys.command]]
+key = "prefix+a"
+type = "plugin_action"
+command = "sessionizer.agents"
+description = "jump to an agent"

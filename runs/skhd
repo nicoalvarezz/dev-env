@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+brew install asmvik/formulae/skhd
+skhd --start-service
